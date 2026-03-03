@@ -72,6 +72,7 @@ This project was developed as part of a Frontend Developer Technical Test.
 ---
 
 ## 📂 Project Structure
+```bash
 src/
 │
 ├── api/
@@ -114,3 +115,4 @@ src/
 ├── App.tsx
 │
 └── main.tsx
+```
